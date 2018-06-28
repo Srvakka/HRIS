@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26664" started-at="2018-06-27T13:17:55Z" finished-at="2018-06-27T13:18:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26664" started-at="2018-06-27T13:17:55Z" finished-at="2018-06-27T13:18:22Z">
+      <class name="Keyword.TESTNG">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Keyword.TESTNG@7ac7a4e4]" name="launch" is-config="true" duration-ms="4500" started-at="2018-06-27T18:47:55Z" finished-at="2018-06-27T18:47:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Keyword.TESTNG@7ac7a4e4]" name="login" duration-ms="7969" started-at="2018-06-27T18:47:59Z" finished-at="2018-06-27T18:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login2()[pri:0, instance:Keyword.TESTNG@7ac7a4e4]" name="login2" duration-ms="6646" started-at="2018-06-27T18:48:07Z" finished-at="2018-06-27T18:48:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2 -->
+        <test-method status="PASS" signature="login3()[pri:0, instance:Keyword.TESTNG@7ac7a4e4]" name="login3" duration-ms="2325" started-at="2018-06-27T18:48:14Z" finished-at="2018-06-27T18:48:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login3 -->
+        <test-method status="PASS" signature="login4()[pri:0, instance:Keyword.TESTNG@7ac7a4e4]" name="login4" duration-ms="2269" started-at="2018-06-27T18:48:16Z" finished-at="2018-06-27T18:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login4 -->
+        <test-method status="PASS" signature="login5()[pri:0, instance:Keyword.TESTNG@7ac7a4e4]" name="login5" duration-ms="2926" started-at="2018-06-27T18:48:19Z" finished-at="2018-06-27T18:48:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login5 -->
+      </class> <!-- Keyword.TESTNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
